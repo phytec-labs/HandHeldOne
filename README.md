@@ -1,5 +1,5 @@
 # The Handheld One
-A PHYTEC Gaming Handheld concept initially based on the AM62P.
+An Open Source Gaming Handheld concept initially based on the AM62P.
 
 ## Features
 - Quad 64-bit Arm® Cortex®-A53 1.4 GHz
@@ -14,4 +14,7 @@ A PHYTEC Gaming Handheld concept initially based on the AM62P.
 - Fully Open Source
 
 ## Modeling Software
+[FreeCAD](https://www.freecad.org/)
 Models were generated using FreeCad in an attempt to keep this project as open as possible.
+
+![v24.00.02](./Documentation/v24.00.02.png)
